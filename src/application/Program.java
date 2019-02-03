@@ -37,6 +37,8 @@ public class Program {
 		} else {
 			System.out.println("Triangulo y maior que triangulo x ");
 		}
+		
+		System.out.println("Boa noite!");
 
 		scr.close();
 	}
